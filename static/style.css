@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+
+body{
+    background: #355C7D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.title{
+    margin-top: 5%;
+    font-family: 'Akaya Kanadaka', cursive;
+    margin-left: 15%;
+    font-size: 120%;
+    color: mintcream;
+    text-shadow: 2px 2px 0.5rem rgb(10, 10, 10)
+}
+
+.image{
+    
+   padding-left: 12%;
+   padding-top: 5%;
+}
+
+.ramdom{
+    box-shadow: 8px 8px 1.5rem black;
+    height: 250px;
+    width: 400px;
+    border-radius: 3% 3%;
+}
+
+
+.button-next{
+    width: 35%;
+    height: 20px;
+    margin-top:3% ;
+    margin-left:18%;
+    
+}
+
+.next{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(144, 33, 248);
+    font-size: larger;
+    color: rgb(10, 203, 233);
+    font-family: 'Akaya Kanadaka', cursive;
+    border-radius: 3% 3%;
+    text-decoration: none;
+}
+
